@@ -1,4 +1,4 @@
-# TicketReservation
+# Ticket Reservation
 
 A Java-based ticket reservation system for booking tickets to on-campus events such as musicals and sports games. This project demonstrates the use of inheritance, interfaces, and abstract classes in Java, along with formatted output for ticket booking details.
 
